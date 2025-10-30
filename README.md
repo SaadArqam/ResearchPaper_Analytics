@@ -98,3 +98,7 @@ Average citation comparison between interdisciplinary and single-discipline pape
 **Shibaditya Deb**  
 Frontend Developer | AI & ML Enthusiast | Research Analyst  
 📎 [LinkedIn](https://www.linkedin.com/in/shibadityadeb) | [GitHub](https://github.com/shibadityadeb)
+
+**Saad Arqam**  
+FullStack Developer | UI/UX   
+📎 [LinkedIn](https://www.linkedin.com/in/avgchillguy) | [GitHub](https://github.com/SaadArqam)
